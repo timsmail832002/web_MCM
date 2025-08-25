@@ -278,7 +278,7 @@ export default function Home() {
             <ul className="mt-3 space-y-2 text-sm text-slate-700">
               <li className="flex items-center gap-2"><Phone className="h-4 w-4"/> 414-460-1227</li>
               <li className="flex items-center gap-2"><Mail className="h-4 w-4"/> <a href="mailto:mencrowningmen@gmail.com" className="underline">mencrowningmen@gmail.com</a></li>
-              <li className="flex items-center gap-2"><MapPin className="h-4 w-4"/> 4731 W Leon Ter, Milwaukee, WI 53216</li>
+              <li className="flex items-center gap-2"><MapPin className="h-4 w-4"/> TBD</li>
             </ul>
           </div>
           <div>
