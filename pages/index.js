@@ -201,7 +201,7 @@ export default function Home() {
 
               <button type="button" className="mt-3 inline-flex items-center justify-center gap-2 rounded-xl px-5 py-3 bg-slate-900 text-white font-medium shadow hover:bg-slate-800">
                 <a
-  href="mailto:tmitchell@memcrowningmen.com"
+  href="mailto:tmitchell@mencrowningmen.com"
   className="mt-3 inline-flex items-center justify-center gap-2 rounded-xl px-5 py-3 bg-slate-900 text-white font-medium shadow hover:bg-slate-800"
 >
   Send Inquiry <ArrowRight className="h-4 w-4" />
